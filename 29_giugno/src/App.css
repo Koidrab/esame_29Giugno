@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.link:hover {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  box-shadow: -3px 4px 5px 0px #C3C3C3;
+}
+.link {
+  border: 1px solid transparent;
+  size: auto;
+}
